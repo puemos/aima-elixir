@@ -1,16 +1,16 @@
-# A
+# Aima
 
 **TODO: Add description**
 
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `a` to your list of dependencies in `mix.exs`:
+by adding `aima` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
   [
-    {:a, "~> 0.1.0"}
+    {:aima, "~> 0.1.0"}
   ]
 end
 ```
