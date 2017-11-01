@@ -1,6 +1,6 @@
-defmodule A do
+defmodule Aima do
   @moduledoc """
-  Documentation for A.
+  Documentation for Aima.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule A do
 
   ## Examples
 
-      iex> A.hello
+      iex> Aima.hello
       :world
 
   """
